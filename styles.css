@@ -1,0 +1,17 @@
+.div{
+    font-size: bold;
+    font-style: italic;
+    text-align: center;
+}
+.hightlight{
+    font-size: large;
+    color: blue;
+    font-style: oblique;
+    background-color: aqua;
+}
+.hight{
+    color: blue;
+    font: 100%;
+    font-style: italic;
+    background-color:black
+}
